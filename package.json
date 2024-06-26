@@ -1,6 +1,6 @@
 {
   "homepage": "https://pirnet7.github.io/myWebsite",
-  "name": "test-cv",
+  "name": "myWebsite",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
